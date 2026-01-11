@@ -1,0 +1,8 @@
+{
+  "name": "heckers_mind",
+  "description": "A high-performance, aesthetically pleasing AI chatbot powered by the latest Gemini 3 models, featuring real-time streaming and a modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
